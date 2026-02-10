@@ -1,7 +1,7 @@
 SPRING AI SHIFT™
 Transformando la inteligencia artificial en claridad accionable.
 
-SPRING AI SHIFT™ es un ecosistema diseñado para cerrar la brecha entre la complejidad técnica de la IA y la ejecución estratégica humana. Este prototipo funcional, desarrollado en Streamlit, actúa como un puente cognitivo para profesionales, empresas y organizaciones sociales.
+Este es un ecosistema diseñado para cerrar la brecha entre la complejidad técnica de la IA y la ejecución estratégica humana. Este prototipo funcional, desarrollado en Streamlit, actúa como un puente cognitivo para profesionales, empresas y organizaciones sociales.
 
 ⚡ Clarity Engine
 El núcleo de la aplicación es el Clarity Engine (Traductor Cognitivo). A diferencia de un chat genérico, este motor utiliza modelos de lenguaje avanzados para re-mapear conceptos técnicos en marcos de entendimiento accionables según el perfil del usuario:
